@@ -2,3 +2,4 @@
 2) Catch the bus 94.
 3) Traveling to the station P.K. Diana.
 4) Get off the bus.
+5) Go down the bulevard.
