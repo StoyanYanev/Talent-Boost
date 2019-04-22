@@ -1,0 +1,27 @@
+body{
+    background-image: url(../imgs/grey.jpg);
+    background-repeat: repeat;
+     font-family: "Georgia", serif;
+}
+header{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    font-family: "OCR A Std", monospace;
+}
+h1, h2, h3{
+    margin-left: 15px;
+}
+hr {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+p{
+    text-align: justify;
+     margin-left: 25px;
+}
+#InformationAboutMe{
+    float: right;
+    margin-right: 750px;
+}

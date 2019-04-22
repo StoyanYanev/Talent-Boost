@@ -1,0 +1,19 @@
+#borderImage{
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 210px;
+    height: 260px;
+}
+.container{
+
+    float: left;
+    margin: 20px;
+    margin-left: 25px;
+}
+div{
+ float: left;
+}
+li{
+    margin-bottom: 10px;
+}
