@@ -1,0 +1,28 @@
+#addTask {
+	background-color:#44c767;
+	border-radius:7px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: "Roboto,sans-serif";
+	font-size:16px;
+	font-weight:bold;
+}
+#addTask:hover {
+	background-color:#5cbf2a;
+}
+.deleteTask{
+    background-color:#d9534f;
+	border-radius:7px;
+	border:1px solid #d43f3a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: "Roboto,sans-serif";
+	font-size:14px;
+	font-weight:bold;
+}
+.deleteTask:hover {
+	background-color:#ba1724;
+}
