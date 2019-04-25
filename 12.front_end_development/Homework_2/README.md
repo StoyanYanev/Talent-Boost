@@ -31,7 +31,7 @@ button for removing tasks next to every task.
 
 8.  Submit a task when the user presses the ‘Enter button’
 
-![](media/9f076aa7cd40b67d3659878e8a19ec12.png)
+![](1.png)
 
 String and Arrays
 -----------------
